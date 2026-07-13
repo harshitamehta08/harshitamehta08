@@ -4,7 +4,7 @@
 
 
 # About Me:
-Hi, I'm Harshita Mehta 👋<br>🎓 BCA Student<br><br>About Me<br>🏫 Computer science student at Miet Kumaon<br>🌱 Currently learning SQL, Python, Excel & Power BI<br>📈 , Building projects to improve my skills<br>🎯 Goal oriented<br><br>🖥️Sills<br>SQL<br>Python<br>Excel<br>Power BI<br>GitHub<br><br>Connect with Me<br>💼 LinkedIn: (https://www.linkedin.com/in/harshita-mehta-2a5a03321?utm_source=share_via&utm_content=profile&utm_medium=member_android)<br><br>📧 Email: (mharshita687@gmail.com)<br><br>Thank you for visiting my profile.
+Hi, I'm Harshita Mehta 👋<br>🎓 BCA Student<br><br>About Me<br>🏫 Computer science student at Miet Kumaon<br>🌱 Currently learning SQL, Python, Excel & Power BI<br>📈 , Building projects to improve my skills<br>🎯 Goal oriented<br><br>🖥️Skills<br>SQL<br>Python<br>Excel<br>Power BI<br>GitHub<br><br>Connect with Me<br>💼 LinkedIn: (https://www.linkedin.com/in/harshita-mehta-2a5a03321?utm_source=share_via&utm_content=profile&utm_medium=member_android)<br><br>📧 Email: (mharshita687@gmail.com)<br><br>Thank you for visiting my profile.
 
 
 ## 🌐 Socials:
