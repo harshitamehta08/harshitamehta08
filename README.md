@@ -8,7 +8,7 @@ Hi, I'm Harshita Mehta 👋<br>🎓 BCA Student<br><br>About Me<br>🏫 Computer
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/harshita-mehta-2a5a03321) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto: harshitamehtaa08@gmail.com) 
+[![LinkedIn](https://www.linkedin.com/in/harshita-mehta-2a5a03321  ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto: harshitamehtaa08@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
