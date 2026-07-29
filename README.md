@@ -1,9 +1,18 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=42&pause=1000&color=FF1493&center=true&vCenter=true&width=800&lines=🌸+Hi,+I'm+Harshita+Mehta+🌸" />
-</p>
+<div align="center">
 
+<img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="120"/>
+
+# ╭────────────── 🎯 ──────────────╮
+
+# 👋 𝑯𝒊, 𝑰'𝒎 **𝑯𝒂𝒓𝒔𝒉𝒊𝒕𝒂 𝑴𝒆𝒉𝒕𝒂**
+
+### ✨ Welcome to My GitHub Profile ✨
+
+# ╰────────────── 🎯 ──────────────╯
+
+</div>
 <h3 align="center">💻 BCA Student | Data Analytics Enthusiast | Python Learner 🚀</h3>
 
 <p align="center">
