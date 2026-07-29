@@ -1,23 +1,137 @@
-# Hi, I'm Harshita Mehta 👋
+<h1 align="center">Hi 👋, I'm Harshita Mehta</h1>
 
-🎓 BCA Student
+<h3 align="center">💻 BCA Student | Data Analytics Enthusiast | Python Learner 🚀</h3>
 
-
-# About Me:
-Hi, I'm Harshita Mehta 👋<br>🎓 BCA Student<br><br>About Me<br>🏫 Computer science student at Miet Kumaon<br>🌱 Currently learning SQL, Python, Excel & Power BI<br>📈 , Building projects to improve my skills<br>🎯 Goal oriented<br><br>🖥️Skills<br>SQL<br>Python<br>Excel<br>Power BI<br>GitHub<br><br>Connect with Me<br>💼 LinkedIn: (https://www.linkedin.com/in/harshita-mehta-2a5a03321 )<br><br>📧 Email: (harshitamehtaa08@gmail.com)<br><br>Thank you for visiting my profile.
-
-
-## 🌐 Socials:
-[![LinkedIn][![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshita-mehta-2a5a03321/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto: harshitamehtaa08@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=harshitamehta08&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=harshitamehta08&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=harshitamehta08&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+%7C+SQL+%7C+Power+BI;Learning+Everyday+%F0%9F%9A%80;Future+Data+Analyst+%F0%9F%93%8A" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=harshitamehta08&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+## 👩‍💻 About Me
+
+🎓 BCA Student at **MIET Kumaon**
+
+🌱 Currently Learning
+- Python
+- SQL
+- Excel
+- Power BI
+- Git & GitHub
+
+🚀 Passionate about Data Analytics & AI
+
+💡 I love building projects and learning new technologies.
+
+🎯 Goal:
+Become a **Data Analyst** and contribute to impactful projects.
+
+---
+
+# 🛠 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=java" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=c" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+
+</p>
+
+📊 Power BI
+
+📈 Excel
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshitamehta08&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitamehta08&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=harshitamehta08&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=harshitamehta08&theme=algolia&margin-w=15"/>
+
+</p>
+
+---
+
+# 📌 Featured Projects
+
+⭐ Power BI Dashboard
+
+⭐ Python Projects
+
+⭐ SQL Projects
+
+⭐ Java Programs
+
+⭐ C Programming
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/harshita-mehta-2a5a03321">
+
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="mailto:harshitamehta08@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=harshitamehta08&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
