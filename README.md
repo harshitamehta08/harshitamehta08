@@ -4,13 +4,13 @@
 
 <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="120"/>
 
-# ╭────────────── 🎯 ──────────────╮
+# ╭──────────────---──────────────╮
 
-# 👋 𝑯𝒊, 𝑰'𝒎 **𝑯𝒂𝒓𝒔𝒉𝒊𝒕𝒂 𝑴𝒆𝒉𝒕𝒂**
+# https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif 𝑯𝒊, 𝑰'𝒎 **𝑯𝒂𝒓𝒔𝒉𝒊𝒕𝒂 𝑴𝒆𝒉𝒕𝒂**
 
 ### ✨ Welcome to My GitHub Profile ✨
 
-# ╰────────────── 🎯 ──────────────╯
+# ╰──────────────---──────────────╯
 
 </div>
 <h3 align="center">💻 BCA Student | Data Analytics Enthusiast | Python Learner 🚀</h3>
