@@ -1,10 +1,8 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Harshita Mehta
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Python+Developer;SQL+Learner;Power+BI+Explorer;Always+Learning+Something+New..." />
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=42&pause=1000&color=FF1493&center=true&vCenter=true&width=800&lines=🌸+Hi,+I'm+Harshita+Mehta+🌸" />
+</p>
 
 <h3 align="center">💻 BCA Student | Data Analytics Enthusiast | Python Learner 🚀</h3>
 
