@@ -106,8 +106,12 @@ Become a **Data Analyst** and contribute to impactful projects.
 
 ---
 
-<h3 align="center">
 
-⭐ Thanks for visiting my profile ⭐
 
-</h3>
+
+
+<p align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&repeat=true&width=700&lines=Thanks+for+visiting+my+profile!+🚀)
+
+</p>
