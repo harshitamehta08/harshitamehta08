@@ -40,9 +40,6 @@
 
 💡 I love building projects and learning new technologies.
 
-🎯 Goal:
-Become a **Data Analyst** and contribute to impactful projects.
-
 ---
 
 # 🛠 Tech Stack
