@@ -16,14 +16,6 @@
 ---
 
 
-<div align="center">
-
-<img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" width="320" alt="Coding Girl"/>
-
-</div>
-
----
-
 
 ## 👩‍💻 About Me
 
